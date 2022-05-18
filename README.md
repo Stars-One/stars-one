@@ -23,25 +23,4 @@ dream about creating more interesting apps. 📱
 
 <br>
 
-## 我的项目
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=LanzouDownloader" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="right" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=M3u8Downloader" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=LanzouDownloader" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="right" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=M3u8Downloader" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=LanzouDownloader" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="right" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=M3u8Downloader" />
-</a>
