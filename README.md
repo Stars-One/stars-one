@@ -1,6 +1,7 @@
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=stars-one&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=cn&card_width=450" />
 
-<img align="right" style="margin-top:20px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stars-one&card_width=450&theme=vue&layout=compact&langs_count=10&hide=html,css&locale=cn" />
+<img align="right" style="margin-top:20px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stars-one&card_width=450&theme=vue&layout=compact&langs_count=10&hide=dart,batchfile,ruby,html,css,objective-c&locale=cn" />
 
 Hello,there is stars-one here
 
@@ -18,3 +19,18 @@ dream about creating more interesting apps. 📱
 - Android
 - TornadoFx
 - Vue(A little)
+
+
+<br>
+
+## 我的项目
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=LanzouDownloader&card_width=350" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=LanzouDownloader&card_width=350" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="right" src="https://github-readme-stats-kohl-theta.vercel.app/api/pin/?username=stars-one&repo=LanzouDownloader&card_width=350" />
+</a>
