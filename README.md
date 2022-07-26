@@ -15,6 +15,7 @@ dream about creating more interesting apps. 📱
 
 个人网站 [StarsOne的杂货小窝](https://stars-one.site/),欢迎访问 🎉
 
+目前入驻[爱发电](https://afdian.net/@stars-one)，欢迎各位发电支持 :wink:
 ### Skill(技术栈)
 
 - Java
