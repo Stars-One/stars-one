@@ -25,6 +25,14 @@ dream about creating more interesting apps. 📱
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=stars-one&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=cn&card_width=450" />
+<div style="display: flex;">
+    <div style="flex: 1; background-color: lightblue;">
+      <img src="https://github-readme-stats.vercel.app/api?username=stars-one&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=cn&card_width=450" />
+    </div>
+    <div style="flex: 1; background-color: lightcoral;">
+      <img style="margin-top:20px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stars-one&card_width=450&theme=vue&layout=compact&langs_count=10&hide=dart,batchfile,ruby,html,css,objective-c&locale=cn" />
+    </div>
+</div>
 
-<img style="margin-top:20px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stars-one&card_width=450&theme=vue&layout=compact&langs_count=10&hide=dart,batchfile,ruby,html,css,objective-c&locale=cn" />
+
+
